@@ -1,5 +1,5 @@
 ## My Belief
-	I believe Technology has the power to enable our minds to create things we can only dream of into existence.
+	I believe Technology has the power to create things we can only dream of into existence.
 
 - 🔭 I’m currently working on ProjectX
 - 🌱 I’m currently learning various applications of Data Science
