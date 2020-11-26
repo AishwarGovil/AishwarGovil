@@ -1,9 +1,9 @@
 ## My Belief
 	I believe Technology has the power to create things we can only dream of into existence.
-
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 - 🔭 I’m currently working on ProjectX
 - 🌱 I’m currently learning various applications of Data Science
-- 👯 I’m looking to collaborate on Data Science and Machile Learning Projects
+- 👯 I’m looking to collaborate on Data Science and Machine Learning Projects
 - 💬 Ask me about....ANYTHING
 - 📫 How to reach me: [Instagram](https://www.instagram.com/aishwargovil/) [LinkedIn](https://www.linkedin.com/in/aishwar-govil-144b621a6/)
 - ⚡ Fun fact: Pizza is ALWAYS better with EXTRA CHEESE
