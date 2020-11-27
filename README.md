@@ -12,6 +12,8 @@
 ## Articles Published on <a href="https://aishwar99govil.medium.com/">Medium</a>
 [Data Pre-processing-Refining Gold](https://medium.com/swlh/data-preprocessing-refining-gold-d2d97dd31bd1)
 
+[Thank GOD for Sklearn](https://aishwar99govil.medium.com/thank-god-for-sklearn-1552c1a182eb)
+
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## My Github Stats
